@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["app/*"],
+      "@/components/*": ["components/*"],
+      "@/services": ["/app/services/*"]
+    }
+  }
+}
