@@ -194,7 +194,7 @@ export default function ContactComponent() {
             type="submit"
             className="block w-full rounded-md bg-[#0061ff] px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-[rgb(0,80,255)] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
           >
-            Let's talk
+            Let&apos;s talk
           </button>
         </div>
       </form>
