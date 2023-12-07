@@ -1,5 +1,6 @@
 const analyzeImage = async (base64Image) => {
     const apiKey = process.env.NEXT_PUBLIC_OPENAI_API_KEY
+
   
     const headers = {
       'Content-Type': 'application/json',
